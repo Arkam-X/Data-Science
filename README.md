@@ -24,16 +24,11 @@ Timestamp extraction from unstructured text
 Data cleaning and type conversion
 Statistical analysis and rankings
 
-Files:
-
-featureExtraction.ipynb - Feature engineering notebook
-anime.csv - Anime dataset
----
 
 ## 🛠️ Technologies
 
-Python 🐍
-Pandas - Data manipulation
+- Python 🐍
+-- Pandas - Data manipulation
 NumPy - Numerical computing
 Jupyter Notebooks - Interactive analysis
 
@@ -59,3 +54,4 @@ Custom Functions - Tailored solutions for specific data challenges
 
 ---
 ***Transforming data into actionable insights ✨***
+
