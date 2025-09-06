@@ -1,6 +1,6 @@
 ﻿# Data Science Projects
 
-A collection of **data analysis** and **feature extraction** projects showcasing ***Python*** and ***pandas*** expertise.
+A collection of **Data Analysis and Visualization** projects showcasing ***Python*** expertise and ***growth as a data learner.*** 
 
 ## 🚀 Projects
 
@@ -20,13 +20,23 @@ A collection of **data analysis** and **feature extraction** projects showcasing
 - Data cleaning and type conversion
 - Statistical analysis and rankings
 
+### 3. **IPL Data Analysis** 🏏
+**Exploratory Data Analysis and Data Visualization**
+
+- Team performance comparisons across seasons
+- Player statistics and top performer identification
+- Match outcome trends and venue-based insights
+- Data visualization of scores, wins, and player contributions 
+
 ---
 
 ## 🛠️ Technologies
 
-- **Python** 🐍
+- **Python** - *Core Language*
 - **Pandas** - *Data manipulation*
-- **NumPy** - *Numerical computing*  
+- **NumPy** - *Numerical computing*
+- **Matplotlib** – *Data visualization*
+- **Seaborn** – *Statistical plotting*
 - **Jupyter Notebooks** - *Interactive analysis*
 
 ---
@@ -56,3 +66,4 @@ A collection of **data analysis** and **feature extraction** projects showcasing
 ---
 
 ***Transforming data into actionable insights*** ✨
+
