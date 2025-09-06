@@ -1,6 +1,6 @@
 ﻿# Data Science Projects
 
-A collection of **Data Analysis and Visualization** projects showcasing ***Python*** expertise and ***growth as a data learner.*** 
+A collection of **Data Analysis and Visualization** projects showcasing ***Python*** expertise and ***my growth as a data learner.*** 
 
 ## 🚀 Projects
 
@@ -69,5 +69,6 @@ A collection of **Data Analysis and Visualization** projects showcasing ***Pytho
 ---
 
 ***Transforming data into actionable insights*** ✨
+
 
 
