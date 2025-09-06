@@ -47,6 +47,7 @@ A collection of **Data Analysis and Visualization** projects showcasing ***Pytho
 - **Feature Engineering** - *Extracting structured data from text*
 - **Data Cleaning** - *Handling missing values and type conversions*
 - **Statistical Analysis** - *Rankings, comparisons, and insights*
+- **Data Visualization** - *Using different tools to make data come alive.*
 - **Custom Functions** - *Tailored solutions for specific data challenges*
 
 ---
@@ -59,6 +60,8 @@ A collection of **Data Analysis and Visualization** projects showcasing ***Pytho
 
 ✅ **Real-world datasets** with practical applications
 
+✅ **Clear and engaging visualizations** to make complex data understandable
+
 ✅ **Clean, documented code** with clear explanations
 
 ✅ **End-to-end analysis** from raw data to insights
@@ -66,4 +69,5 @@ A collection of **Data Analysis and Visualization** projects showcasing ***Pytho
 ---
 
 ***Transforming data into actionable insights*** ✨
+
 
